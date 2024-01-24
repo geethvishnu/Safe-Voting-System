@@ -1,1 +1,1 @@
-# safe-voting-system
+# safe_voting_platform
